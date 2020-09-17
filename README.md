@@ -12,4 +12,4 @@
 - **touch** is a command to create a file
 - **man** is a command that shows the manual for other commands (example: man cd )
 - **pip3** is to download and for installing software and such
-- **sudo** is a command not to be used lightly, it gives the user _**superuser**_ privilidges.
+- **sudo** is a command not to be used lightly, it gives the user _**superuser**_ permissions.
