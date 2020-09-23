@@ -13,3 +13,7 @@
 - **man** is a command that shows the manual for other commands (example: **man cd** )
 - **pip3** is to download and for installing software and such
 - **sudo** is a command not to be used lightly, it gives the user _**superuser**_ permissions.
+- **cat** is a command that shows what is in a file
+- **echo** is a command for putting something into a file. Like ("Hello World!!") text / code line
+- **source** is a command for a shell built-in command which is used to read and execute the content of a file(generally set of commands), passed as an argument in the current shell script. The command after taking the content of the specified files passes it to the TCL interpreter as a text script which then gets executed.
+- **chmod** is a command for changing user rights on a file. Better said access mode of a file and so on.
